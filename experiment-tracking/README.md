@@ -1,3 +1,5 @@
+Go to experiment-tracking directory
+
 ## Create buckets for mlflow
 ```mkdir -p ./buckets/mlflow```
 
