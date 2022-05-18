@@ -1,5 +1,5 @@
 ## Create buckets for mlflow
-```mkdir -p ./experiment-tracking/buckets/mlflow```
+```mkdir -p ./buckets/mlflow```
 
 ## To Run
 ```docker-compose --env-file ./.env up```
